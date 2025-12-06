@@ -1,0 +1,11 @@
+services:
+  api:
+    build: .
+    image: francescoxx/netflix-backend:latest
+    container_name: netflix-backend
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      - PORT=8080
