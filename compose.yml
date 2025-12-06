@@ -1,7 +1,7 @@
 services:
   api:
     build: .
-    image: francescoxx/netflix-backend:latest
+    image: francescoxx/netflix-backend:1.0
     container_name: netflix-backend
     ports:
       - "8080:8080"

@@ -1,4 +1,3 @@
-// Dockerfile
 # STAGE 1: Builder
 FROM rust:1.83-slim-bookworm as builder
 
@@ -20,8 +19,11 @@ FROM debian:bookworm-slim
 RUN apt-get update && apt-get install -y openssl ca-certificates && rm -rf /var/lib/apt/lists/*
 
 # Copy the binary
-# NOTE: Replace "your_project_name" with the actual name from Cargo.toml
-COPY --from=builder /app/target/release/your_project_name /usr/local/bin/app
+COPY --from=builder /app/target/release/netflix_backend /usr/local/bin/app
+
+# --- NEW: Copy the video file correctly ---
+# We copy from "assets/video.mp4" (local) to "." (root of container)
+COPY assets ./assets
 
 # Expose port 8080
 ENV PORT=8080

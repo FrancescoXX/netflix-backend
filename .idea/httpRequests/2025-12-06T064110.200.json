@@ -1,0 +1,226 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 66732,
+      "title": null,
+      "name": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "poster_path": "/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+      "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "vote_average": 8.601,
+      "release_date": null,
+      "media_type": "tv"
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "name": null,
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "backdrop_path": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+      "vote_average": 7.704,
+      "release_date": "2025-11-26",
+      "media_type": "movie"
+    },
+    {
+      "id": 533533,
+      "title": "TRON: Ares",
+      "name": null,
+      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "poster_path": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "backdrop_path": "/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
+      "vote_average": 6.5,
+      "release_date": "2025-10-08",
+      "media_type": "movie"
+    },
+    {
+      "id": 1180831,
+      "title": "Troll 2",
+      "name": null,
+      "overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
+      "poster_path": "/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+      "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+      "vote_average": 6.873,
+      "release_date": "2025-11-30",
+      "media_type": "movie"
+    },
+    {
+      "id": 701387,
+      "title": "Bugonia",
+      "name": null,
+      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "backdrop_path": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+      "vote_average": 7.513,
+      "release_date": "2025-10-23",
+      "media_type": "movie"
+    },
+    {
+      "id": 1069905,
+      "title": "Jay Kelly",
+      "name": null,
+      "overview": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
+      "poster_path": "/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+      "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+      "vote_average": 6.6,
+      "release_date": "2025-11-12",
+      "media_type": "movie"
+    },
+    {
+      "id": 1228246,
+      "title": "Five Nights at Freddy's 2",
+      "name": null,
+      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades.",
+      "poster_path": "/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "vote_average": 6.344,
+      "release_date": "2025-12-03",
+      "media_type": "movie"
+    },
+    {
+      "id": 225171,
+      "title": null,
+      "name": "Pluribus",
+      "overview": "The most miserable person on Earth must save the world from happiness.",
+      "poster_path": "/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+      "backdrop_path": "/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+      "vote_average": 7.949,
+      "release_date": null,
+      "media_type": "tv"
+    },
+    {
+      "id": 223300,
+      "title": null,
+      "name": "The Abandons",
+      "overview": "In 1850s Washington, two families led by powerful matriarchs — one wealthy, one poor but deeply loyal — battle for supremacy on the lawless frontier.",
+      "poster_path": "/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+      "backdrop_path": "/Amaws3yNGpjl8lD2KfhaJHYKrZ2.jpg",
+      "vote_average": 5.286,
+      "release_date": null,
+      "media_type": "tv"
+    },
+    {
+      "id": 1261825,
+      "title": "Oh. What. Fun.",
+      "name": null,
+      "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
+      "poster_path": "/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
+      "backdrop_path": "/haAekI7zBtffqILr90DkviTe9fk.jpg",
+      "vote_average": 6.444,
+      "release_date": "2025-12-02",
+      "media_type": "movie"
+    },
+    {
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "name": null,
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "vote_average": 7.376,
+      "release_date": "2025-11-05",
+      "media_type": "movie"
+    },
+    {
+      "id": 209110,
+      "title": null,
+      "name": "The Price of Confession",
+      "overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
+      "poster_path": "/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+      "backdrop_path": "/4Bvk0EVHCjswWQYFHdRNsVWLtk8.jpg",
+      "vote_average": 8.5,
+      "release_date": null,
+      "media_type": "tv"
+    },
+    {
+      "id": 240459,
+      "title": null,
+      "name": "Spartacus: House of Ashur",
+      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+      "poster_path": "/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "backdrop_path": "/ckPbbcJOcL43mJBrROTMrtOBIYK.jpg",
+      "vote_average": 4.8,
+      "release_date": null,
+      "media_type": "tv"
+    },
+    {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "name": null,
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "poster_path": "/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "vote_average": 0.0,
+      "release_date": "2025-12-17",
+      "media_type": "movie"
+    },
+    {
+      "id": 1246049,
+      "title": "Dracula",
+      "name": null,
+      "overview": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love.",
+      "poster_path": "/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+      "backdrop_path": "/otSXrUWOTX7tTigLBMFKOV8n47r.jpg",
+      "vote_average": 7.108,
+      "release_date": "2025-07-30",
+      "media_type": "movie"
+    },
+    {
+      "id": 967941,
+      "title": "Wicked: For Good",
+      "name": null,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+      "vote_average": 6.745,
+      "release_date": "2025-11-19",
+      "media_type": "movie"
+    },
+    {
+      "id": 200875,
+      "title": null,
+      "name": "IT: Welcome to Derry",
+      "overview": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
+      "poster_path": "/ycC53SEDcY7YDOSrFqPQigxaCyx.jpg",
+      "backdrop_path": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+      "vote_average": 8.2,
+      "release_date": null,
+      "media_type": "tv"
+    },
+    {
+      "id": 7451,
+      "title": "xXx",
+      "name": null,
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+      "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+      "vote_average": 5.976,
+      "release_date": "2002-08-09",
+      "media_type": "movie"
+    },
+    {
+      "id": 1441563,
+      "title": "My Secret Santa",
+      "name": null,
+      "overview": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
+      "poster_path": "/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+      "backdrop_path": "/yORrxgxIxsvBqFnpCPJ1j6MHX89.jpg",
+      "vote_average": 7.1,
+      "release_date": "2025-12-02",
+      "media_type": "movie"
+    },
+    {
+      "id": 1062722,
+      "title": "Frankenstein",
+      "name": null,
+      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "vote_average": 7.8,
+      "release_date": "2025-10-17",
+      "media_type": "movie"
+    }
+  ],
+  "total_pages": 500
+}
